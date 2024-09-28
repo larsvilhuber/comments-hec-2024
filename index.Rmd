@@ -91,6 +91,13 @@ Not.
 
 ![source regions](Slide30-notes.png)
 
+## Involuntary event study
+
+- why did people come during the pandemic?
+- did they stay (were the attractors temporary or permanent)?
+
+![PR inflow](Slide8.PNG)
+
 # Policy questions
 
 ## How to create stickiness? 
