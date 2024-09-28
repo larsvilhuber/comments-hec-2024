@@ -89,7 +89,7 @@ Not.
 
 ## Source region differences
 
-![source regions](Slide30-notes.png)
+![source regions](Slide30-notes.PNG)
 
 ## Involuntary event study
 
