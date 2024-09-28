@@ -11,9 +11,13 @@ date: September 2024
 
 ## Your competition's solution
 
-![Sponsoring immigrants](nl-soccer-jersey.jpg)
+![Sponsoring immigrants](nl-soccer-jersey.jpg)[^nyt]
+
+[^nyt]: Source: [New York Times](https://messaging-custom-newsletters.nytimes.com/dynamic/render?campaign_id=50&emc=edit_cnda_20240928&instance_id=135540&isViewInBrowser=true&nl=canada-letter&regi_id=71839939&segment_id=179077&te=1&uri=nyt://newsletter/06badc0b-fdd1-5202-9b85-2de5bb44d5ff&user_id=99ba9e49e8e79c5fdde54b93259c0d75)
 
 ## Targeted recruiting
 
 - Recruit in specific countries
 - Acknowledges the apparent benefits of enclave effects
+
+## Footnotes
